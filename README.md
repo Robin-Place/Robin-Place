@@ -18,6 +18,12 @@ Projet collectif à cinq : simulation SEIRD, mesures sanitaires et gestion des r
 
 **Python · Tkinter · NumPy · POO · MVC**
 
+### [Repères — journal personnel](https://github.com/Robin-Place/reperes)
+
+Projet personnel réunissant calendrier, souvenirs avec photos, tâches récurrentes et suivis d'habitudes. Comptes privés, stockage SQLite ou Supabase, sauvegardes et tests automatisés. La vitrine présente l'application et ses choix techniques ; les sources restent privées.
+
+**TypeScript · Next.js · React · SQLite · Supabase**
+
 ## Compétences pratiquées
 
 Python, C, SQL, Linux/Unix, algorithmique, programmation orientée objet et calcul numérique.
